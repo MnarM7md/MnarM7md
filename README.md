@@ -8,7 +8,7 @@
 <p align="center">
 
   <img
-    src="./assets/waving-hand.gif"
+    src="https://media.giphy.com/media/1d7F9xyq6k6KQ/giphy.gif"
     width="45"
     alt="Waving Hand"
   />
@@ -38,7 +38,7 @@
 <p align="center">
 
   <img
-    src="./assets/flutter-animation.gif"
+    src="https://cdn.simpleicons.org/flutter/027DFD"
     width="180"
     alt="Flutter"
   />
