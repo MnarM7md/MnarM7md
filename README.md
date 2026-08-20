@@ -1,14 +1,10 @@
 <div align="center">
 
-<br>
-
-<a href="https://flutter.dev/">
-  <img
-    src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/flutter-lockup.png"
-    alt="Flutter"
-    width="150"
-  />
-</a>
+<img
+  src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/flutter-logo-sharing.png"
+  width="110"
+  alt="Flutter Logo"
+/>
 
 <br><br>
 
@@ -19,8 +15,8 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1200&color=54C5F8&center=true&vCenter=true&width=620&lines=Building+mobile+experiences+with+Flutter;Designing+simple+%26+intuitive+interfaces;Learning+%7C+Building+%7C+Improving"
-alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=54C5F8&center=true&vCenter=true&width=600&lines=Building+mobile+experiences+with+Flutter;Designing+simple+%26+intuitive+interfaces;Learning%2C+building%2C+and+improving"
+  alt="Typing animation"
 />
 
 <br><br>
@@ -29,161 +25,126 @@ alt="Typing animation"
 
 ---
 
-<div align="center">
-
 ## About Me
 
-</div>
+I'm **Manar Mohamed**, a Computer Science student passionate about
+**Flutter mobile development** and **UI/UX design**.
 
-<p align="center">
-  Computer Science student passionate about
-  <strong>Flutter mobile development</strong> and
-  <strong>UI/UX Design</strong>.
-</p>
+I enjoy building clean mobile interfaces and turning ideas into
+simple, intuitive user experiences.
 
-<p align="center">
-  I enjoy creating clean mobile interfaces and turning ideas
-  into simple, intuitive user experiences.
-</p>
-
-<p align="center">
-  Currently focused on growing my skills in
-  <strong>Flutter, Dart, Mobile Development & UI/UX</strong>.
-</p>
-
-<br>
+Currently, I'm focused on improving my skills in **Flutter, Dart,
+mobile development, and UI/UX Design**.
 
 ---
-
-<div align="center">
 
 ## Tech Stack
 
-</div>
+### Mobile Development
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-
-**Flutter**
+**Flutter**  
 **Dart**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 UI / UX
-
-**Figma**
-**UI Design**
-**UX Design**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Programming
-
-**C++**
-**Java**
-**C#**
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Database & Tools
-
-**SQL**
-**Git**
-**GitHub**
-
-</td>
-</tr>
-</table>
 
 <br>
 
----
+### Programming
 
-<div align="center">
+**C++** · **Java** · **C#**
+
+<br>
+
+### UI / UX
+
+**Figma**  
+**UI Design**  
+**UX Design**
+
+<br>
+
+### Database & Tools
+
+**SQL** · **Git** · **GitHub**
+
+---
 
 ## Currently Learning
 
-<br>
+<div align="center">
 
-`Advanced Flutter`
-   ·   
-`Dart`
-   ·   
-`UI/UX Design`
+`Advanced Flutter` &nbsp;&nbsp; `Dart` &nbsp;&nbsp; `UI/UX Design`
 
 <br><br>
 
-`Clean Architecture`
-   ·   
-`Mobile App Development`
+`Clean Architecture` &nbsp;&nbsp; `Mobile App Development`
 
 </div>
 
-<br>
-
 ---
+
+## What I Care About
 
 <div align="center">
 
-## Connect With Me
+### 📱 Building
+
+Creating clean and user-friendly mobile applications.
 
 <br>
 
+### 🎨 Designing
+
+Designing simple interfaces with a focus on usability.
+
+<br>
+
+### 🚀 Growing
+
+Continuously improving my Flutter and UI/UX skills.
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
 <a href="YOUR_LINKEDIN_URL">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-   
+&nbsp;&nbsp;
 
 <a href="https://github.com/YOUR_USERNAME">
   <img
-    src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
-   
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@example.com">
   <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
 
-<br><br>
-
 </div>
 
----
+<br><br>
 
 <div align="center">
 
-### <span style="color:#54C5F8;">Design with purpose.</span>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,50:02569B,100:0D1117&height=100&section=footer"
+  width="100%"
+/>
 
-### Build with Flutter. 💙
-
-<br>
-
-<sub>
-Flutter and the related logo are trademarks of Google LLC.
-This profile is not affiliated with or sponsored by Google LLC.
-</sub>
-
-<br><br>
+<sub>Design with purpose · Build with Flutter · Keep learning</sub>
 
 </div>
