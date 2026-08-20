@@ -5,62 +5,163 @@
 
 <!-- =========================== HERO ========================= -->
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="./assets/waving-hand.gif"
-    width="45"
-    alt="Waving Hand"
-  />
+  <img src="./assets/waving-hand.gif" width="45" alt="Waving Hand">
 
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=38&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=550&height=70&lines=Manar+Mohamed"
-    alt="Manar Mohamed"
-  />
+  <br><br>
 
-</p>
+  <h1>
+    <span style="color:white;">Manar Mohamed</span>
+  </h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=2800&pause=900&color=8DD7FF&center=true&vCenter=true&width=700&height=45&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Building+clean+and+user-friendly+mobile+experiences"
-    alt="Flutter Developer UI UX Designer"
-  />
-</p>
+  <p>
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=2800&pause=900&color=8DD7FF&center=true&vCenter=true&width=700&height=45&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Building+clean+and+user-friendly+mobile+experiences"
+      alt="Flutter Developer | UI/UX Designer"
+    >
+  </p>
+
+</div>
 
 <br>
 
-<!-- ======================= FLUTTER LOGO ===================== -->
+<!-- ======================= FLUTTER ========================== -->
 
-<p align="center">
+<div align="center">
+
   <img
     src="./assets/flutter-animation.gif"
-    width="170"
-    alt="Flutter"
-  />
+    width="180"
+    alt="Flutter Logo"
+  >
+
+</div>
+
+<br><br>
+
+<!-- ======================= SOCIAL LINKS ===================== -->
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/manar-mohamed-974583335">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="45"
+      alt="LinkedIn"
+    >
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/MnarM7md">
+    <img
+      src="https://cdn.simpleicons.org/github/181717"
+      width="45"
+      alt="GitHub"
+    >
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:m77712406@gmail.com">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="45"
+      alt="Gmail"
+    >
+  </a>
+
+</div>
+
+<br><br>
+
+<!-- =========================== ABOUT ========================= -->
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+I'm <strong>Manar Mohamed</strong>, a Computer Science student at
+<strong>Assiut University</strong> passionate about
+<strong>Flutter development</strong> and <strong>UI/UX design</strong>.
+</p>
+
+<p>
+I enjoy building clean, simple, and user-friendly mobile applications
+while continuously improving my problem-solving and software development skills.
 </p>
 
 <br>
 
-<!-- ========================= SOCIAL ========================= -->
+<!-- ========================= SKILLS ========================== -->
 
-<p align="center">
+<h2>🛠️ Skills</h2>
 
-  <a href="https://www.linkedin.com/in/manar-mohamed-974583335" target="_blank">
+<h3>📱 Mobile Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart">
+</p>
+
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs">
+</p>
+
+<h3>🎨 UI/UX Design</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma">
+</p>
+
+<h3>🗄️ Database</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite">
+</p>
+
+<h3>🔧 Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode">
+</p>
+
+<br>
+
+<!-- ===================== ADDITIONAL SKILLS =================== -->
+
+<h3>💡 Other Skills</h3>
+
+<p>
+  Problem Solving • Object-Oriented Programming • Data Structures
+  • Database • Wireframing • Prototyping • User Research
+</p>
+
+<br>
+
+<!-- ========================= CONTACT ========================= -->
+
+<h2>📫 Connect With Me</h2>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/manar-mohamed-974583335">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="42"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="40"
       alt="LinkedIn"
-    />
+    >
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/MnarM7md" target="_blank">
+  <a href="https://github.com/MnarM7md">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      width="42"
+      src="https://cdn.simpleicons.org/github/181717"
+      width="40"
       alt="GitHub"
-    />
+    >
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,85 +169,23 @@
   <a href="mailto:m77712406@gmail.com">
     <img
       src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="42"
+      width="40"
       alt="Gmail"
-    />
+    >
   </a>
 
-</p>
+</div>
 
-<br>
+<br><br>
 
-<!-- ========================= ABOUT ========================== -->
+<!-- =========================== FOOTER ======================== -->
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm **Manar Mohamed**, a Computer Science student at **Assiut University** passionate about **Flutter development** and **UI/UX design**.
-
-I enjoy building clean, simple, and user-friendly mobile applications while continuously improving my problem-solving and software development skills.
-
----
-
-<!-- ========================= SKILLS ========================== -->
-
-## 🛠️ Skills
-
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs" />
-</p>
-
-### UI/UX Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-<!-- ========================= CONTACT ========================= -->
-
-## 📫 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/manar-mohamed-974583335">
-    LinkedIn
-  </a>
-
-  &nbsp; • &nbsp;
-
-  <a href="https://github.com/MnarM7md">
-    GitHub
-  </a>
-
-  &nbsp; • &nbsp;
-
-  <a href="mailto:m77712406@gmail.com">
-    Gmail
-  </a>
-
-</p>
-
-<br>
-
-<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:027DFD,50:4F46E5,100:8DD7FF&height=120&section=footer"
     width="100%"
-  />
-</p>
+    alt="Footer"
+  >
+
+</div>
