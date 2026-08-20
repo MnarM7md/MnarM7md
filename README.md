@@ -1,51 +1,83 @@
 <!-- ========================================================= -->
-
 <!--                    MANAR MOHAMED                          -->
-
-<!--              CLEAN FLUTTER PROFILE README                 -->
-
+<!--              FLUTTER DEVELOPER PROFILE                    -->
 <!-- ========================================================= -->
 
 <!-- =========================== HERO ========================= -->
 
 <p align="center">
 
-<img
- src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=36&duration=120&pause=1200&color=042B59&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Manar+Mohamed"
- alt="Hi, I'm Manar Mohamed"
-/>
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="42"
+    alt="Waving Hand"
+  />
+
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=36&duration=1&pause=999999&color=042B59&center=true&vCenter=true&width=650&height=65&lines=Hi%2C+I'm+Manar+Mohamed"
+    alt="Hi, I'm Manar Mohamed"
+  />
 
 </p>
 
 <p align="center">
 
-<img
- src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=19&duration=2800&pause=900&color=027DFD&center=true&vCenter=true&width=700&height=45&lines=Flutter+Developer+%7C+UI%2FUX+Designer;Building+clean+and+user-friendly+mobile+experiences"
- alt="Flutter Developer UI UX Designer"
-/>
+  <strong>
+    Flutter Developer
+  </strong>
 
+  &nbsp; • &nbsp;
+
+  <strong>
+    UI/UX Designer
+  </strong>
+
+</p>
+
+<p align="center">
+  <span>
+    Building clean, intuitive and user-friendly mobile experiences.
+  </span>
 </p>
 
 <br>
 
+<!-- ======================= FLUTTER LOGO ===================== -->
+
 <p align="center">
 
-<img
- src="https://cdn.simpleicons.org/flutter/02569B"
- width="150"
- alt="Flutter"
-/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+    width="145"
+    alt="Flutter"
+  />
 
 </p>
 
 <p align="center">
-  <strong>Flutter</strong>
-  &nbsp; · &nbsp;
-  <strong>Dart</strong>
-  &nbsp; · &nbsp;
-  <strong>UI/UX</strong>
-  &nbsp; · &nbsp;
-  <strong>Figma</strong>
+
+  <strong style="color:#02569B;">
+    Flutter
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    Dart
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    UI/UX
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    Figma
+  </strong>
+
 </p>
 
 <br>
@@ -56,13 +88,13 @@
     About
   </a>
 
-  •  
+  &nbsp;&nbsp;•&nbsp;&nbsp;
 
   <a href="#skills">
     Skills
   </a>
 
-  •  
+  &nbsp;&nbsp;•&nbsp;&nbsp;
 
   <a href="#learning">
     Currently Learning
@@ -76,24 +108,27 @@
 
 <!-- ========================== ABOUT ========================= -->
 
-<h2 id="about" align="center">About Me</h2>
+<h2 id="about" align="center">
+  About Me
+</h2>
 
 <br>
 
 <p align="center">
 
-I'm a <strong>Computer & Information student</strong> focused on <strong>Flutter mobile development</strong> and <strong>UI/UX design</strong>.
+I'm a <strong>Computer & Information student</strong> with a strong interest in
+<strong>Flutter mobile development</strong> and <strong>UI/UX design</strong>.
 
 <br><br>
 
-I enjoy transforming ideas into intuitive digital experiences,
-combining thoughtful interface design with clean and maintainable code.
+I enjoy turning ideas into practical mobile applications,
+from designing intuitive interfaces in Figma to implementing them
+with Flutter and Dart.
 
 <br><br>
 
-My current focus is strengthening my Flutter and Dart skills,
-improving my problem-solving abilities, and building practical
-mobile applications with a strong user experience.
+I'm continuously developing my technical skills through
+problem solving, software development, and hands-on projects.
 
 </p>
 
@@ -102,7 +137,7 @@ mobile applications with a strong user experience.
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=027DFD&height=3&section=header"
-    width="45%"
+    width="40%"
     alt=""
   />
 </p>
@@ -111,16 +146,18 @@ mobile applications with a strong user experience.
 
 <!-- ========================== SKILLS ======================== -->
 
-<h2 id="skills" align="center">Skills & Tools</h2>
+<h2 id="skills" align="center">
+  Skills & Tools
+</h2>
 
 <br>
 
 <p align="center">
 
-<img
- src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,c,java,cs,git,github,vscode,visualstudio&theme=light&perline=6"
- alt="Skills and Tools"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,c,java,cs,git,github,vscode,visualstudio&theme=light&perline=6"
+    alt="Technical Skills"
+  />
 
 </p>
 
@@ -128,31 +165,43 @@ mobile applications with a strong user experience.
 
 <p align="center">
 
-<strong>Flutter</strong>
-  ·   <strong>Dart</strong>
-  ·   <strong>Figma</strong>
-  ·   <strong>C</strong>
-  ·   <strong>C++</strong>
-  ·   <strong>Java</strong>
-  ·   <strong>C#</strong>
+  <strong>Flutter</strong>
+  &nbsp; • &nbsp;
+  <strong>Dart</strong>
+  &nbsp; • &nbsp;
+  <strong>Figma</strong>
+  &nbsp; • &nbsp;
+  <strong>C</strong>
+  &nbsp; • &nbsp;
+  <strong>C++</strong>
+  &nbsp; • &nbsp;
+  <strong>Java</strong>
+  &nbsp; • &nbsp;
+  <strong>C#</strong>
 
 </p>
 
 <p align="center">
 
-<strong>OOP</strong>
-  ·   <strong>Data Structures</strong>
-  ·   <strong>Database</strong>
-  ·   <strong>SQL</strong>
+  <strong>OOP</strong>
+  &nbsp; • &nbsp;
+  <strong>Data Structures</strong>
+  &nbsp; • &nbsp;
+  <strong>Database</strong>
+  &nbsp; • &nbsp;
+  <strong>SQL</strong>
 
 </p>
 
 <p align="center">
 
-<strong>Git</strong>
-  ·   <strong>GitHub</strong>
-  ·   <strong>VS Code</strong>
-  ·   <strong>Visual Studio 2022</strong>
+  <strong>Git</strong>
+  &nbsp; • &nbsp;
+  <strong>GitHub</strong>
+  &nbsp; • &nbsp;
+  <strong>VS Code</strong>
+  &nbsp; • &nbsp;
+  <strong>Visual Studio 2022</strong>
 
 </p>
 
@@ -160,32 +209,46 @@ mobile applications with a strong user experience.
 
 ---
 
-<!-- ======================= LEARNING ========================= -->
+<!-- ======================= CURRENTLY ======================== -->
 
-<h2 id="learning" align="center">Currently Learning</h2>
+<h2 id="learning" align="center">
+  Currently Learning
+</h2>
 
 <br>
 
 <p align="center">
 
-<img
- src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=17&duration=3000&pause=900&color=027DFD&center=true&vCenter=true&width=700&height=40&lines=Deepening+my+Flutter+development+skills;Improving+software+design+and+problem+solving;Building+better+mobile+experiences"
- alt="Currently Learning"
-/>
+  <strong>
+    Flutter Development
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    Dart
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    UI/UX
+  </strong>
+
+  &nbsp; • &nbsp;
+
+  <strong>
+    Problem Solving
+  </strong>
 
 </p>
 
-<br>
-
 <p align="center">
 
-📱 Flutter Development
-  •  
-💙 Dart
-  •  
-🎨 UI/UX
-  •  
-🧠 Problem Solving
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=17&duration=3000&pause=1000&color=027DFD&center=true&vCenter=true&width=650&height=40&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;One+project+at+a+time."
+    alt="Learning Building Improving"
+  />
 
 </p>
 
@@ -199,28 +262,31 @@ mobile applications with a strong user experience.
 
   <a href="https://linkedin.com/in/manar-mohamed-974583335">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
       width="42"
+      height="42"
       alt="LinkedIn"
     />
   </a>
 
-      
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/MnarM7md">
     <img
-      src="https://cdn.simpleicons.org/github/181717"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
       width="42"
+      height="42"
       alt="GitHub"
     />
   </a>
 
-      
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:m77712406@gmail.com">
     <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
       width="42"
+      height="42"
       alt="Email"
     />
   </a>
@@ -231,27 +297,27 @@ mobile applications with a strong user experience.
 
 <p align="center">
 
-<img
- src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&duration=3500&pause=1000&color=027DFD&center=true&vCenter=true&width=600&height=40&lines=Design.+Build.+Improve.;One+project+at+a+time."
- alt="Design Build Improve"
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&duration=3500&pause=1000&color=027DFD&center=true&vCenter=true&width=600&height=40&lines=Design.+Build.+Improve."
+    alt="Design Build Improve"
+  />
 
 </p>
 
 <br>
 
 <p align="center">
-  <sub>Made with 💙 by Manar Mohamed</sub>
+  <strong>Made with 💙 by Manar Mohamed</strong>
 </p>
 
 <br>
 
 <p align="center">
 
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=027DFD&height=100&section=footer"
- width="100%"
- alt=""
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=027DFD&height=100&section=footer"
+    width="100%"
+    alt=""
+  />
 
 </p>
