@@ -3,325 +3,364 @@
 <!--              FLUTTER DEVELOPER PROFILE                    -->
 <!-- ========================================================= -->
 
-<!-- =========================== HERO ========================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=38&duration=2500&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manar+Mohamed+%F0%9F%91%8B;Flutter+Developer+%F0%9F%92%99;UI%2FUX+Designer+%F0%9F%8E%A8"
-    alt="Typing animation"
-  />
-</p>
+<!-- HERO -->
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"
-    width="90"
-    alt="Coding"
-  />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D47A1,100:02569B&height=180&section=header&text=Manar%20Mohamed&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=18"
+  width="100%"
+/>
 
-<p align="center">
-  <b>Building beautiful mobile experiences with Flutter & Dart.</b>
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/manarmohamed">
-    <img
-      src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=54C5F8&center=true&vCenter=true&width=650&lines=Flutter+Developer+%F0%9F%92%99;UI%2FUX+Designer+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%92%BB;Building+clean+%26+user-friendly+apps"
+  alt="Typing animation"
+/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 <br>
 
-<!-- ========================= ABOUT ========================== -->
+<a href="#about-me">About Me</a>
+&nbsp; • &nbsp;
+<a href="#tech-stack">Tech Stack</a>
+&nbsp; • &nbsp;
+<a href="#featured-projects">Projects</a>
+&nbsp; • &nbsp;
+<a href="#github-stats">GitHub Stats</a>
+&nbsp; • &nbsp;
+<a href="#connect-with-me">Connect</a>
 
-<h2 align="center">✨ About Me</h2>
+</div>
 
-<p align="center">
-  I'm a Computer & Information student at <b>Assiut University</b>,
-  passionate about <b>Flutter mobile development</b> and
-  <b>UI/UX design</b>.
-</p>
+---
 
-<p align="center">
-  I enjoy turning ideas into clean, intuitive and user-friendly
-  mobile experiences.
-</p>
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+## 👋 About Me
+
+I'm **Manar Mohamed**, a Computer Science student passionate about building
+beautiful and user-friendly mobile applications.
+
+My main focus is **Flutter development** and **UI/UX design**.
+
+I enjoy turning ideas and Figma designs into clean, responsive Flutter
+interfaces while continuously improving my problem-solving and software
+development skills.
 
 <br>
 
-<!-- ========================= FOCUS ========================== -->
+<div align="center">
 
-<h2 align="center">🚀 What I Do</h2>
+> **Design with purpose. Code with simplicity. Build with Flutter. 💙**
 
-<table align="center">
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                      TECH STACK                           -->
+<!-- ========================================================= -->
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs" />
+</p>
+
+### 🎨 UI / UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    DESIGN PHILOSOPHY                       -->
+<!-- ========================================================= -->
+
+## 🎨 My Design & Development Philosophy
+
+<table>
 <tr>
-<td align="center" width="220">
+<td width="33%" align="center">
 
-### 📱 Flutter
+### ✨ Clean
 
-Building cross-platform mobile applications with Flutter & Dart.
-
-</td>
-
-<td align="center" width="220">
-
-### 🎨 UI/UX
-
-Designing clean interfaces and user experiences using Figma.
+Simple interfaces  
+with clear hierarchy.
 
 </td>
 
-<td align="center" width="220">
+<td width="33%" align="center">
 
-### 💡 Problem Solving
+### 🎯 User-Focused
 
-Practicing algorithms, data structures and competitive programming.
+Design decisions  
+start with the user.
+
+</td>
+
+<td width="33%" align="center">
+
+### 💙 Flutter
+
+Beautiful interfaces  
+built with Flutter.
 
 </td>
 </tr>
 </table>
 
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐾 Pet Clinic System
+
+A database-oriented system designed to manage
+pet clinic information and operations.
+
+**Tech**
+
+`MS Access` `Database` `System Analysis`
+
 <br>
 
-<!-- ========================= SKILLS ========================= -->
+<!-- Replace YOUR_USERNAME and YOUR_REPOSITORY -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-02569B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,java,cs,html,css,js,sql,git,github,vscode" />
+<td width="50%">
 
-</p>
+### 🧠 AI Neurology Imaging System
+
+An academic AI project focused on medical
+neurology imaging and image analysis.
+
+**Tech**
+
+`AI` `U-Net` `Vision Transformers`
 
 <br>
 
-<!-- ========================= FLUTTER ======================== -->
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-02569B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<h2 align="center">💙 Flutter & Mobile Development</h2>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🩺 First Aid Information System
+
+A mobile application concept focused on
+providing accessible first-aid information.
+
+**Tech**
+
+`Flutter` `Dart` `UI/UX`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-02569B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📱 More Projects
+
+I'm continuously building and improving
+new Flutter and UI/UX projects.
+
+**Coming Soon**
+
+`Flutter` `Dart` `Figma`
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                   CURRENTLY LEARNING                      -->
+<!-- ========================================================= -->
+
+## 🌱 Currently Learning
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX-4F46E5?style=flat-square&logo=design&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-FF7262?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Architecture-161B22?style=flat-square&logo=flutter&logoColor=54C5F8" />
 
-</p>
-
-<p align="center">
-  <i>Currently focusing on building modern, scalable and user-friendly Flutter applications.</i>
 </p>
 
 <br>
 
-<!-- ========================= PROJECTS ======================= -->
+<div align="center">
 
-<h2 align="center">📂 Featured Projects</h2>
+**Learning → Building → Improving → Repeating**
 
-<table align="center">
+</div>
 
-<tr>
+---
 
-<td width="50%" valign="top">
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                           -->
+<!-- ========================================================= -->
 
-<h3 align="center">🐾 Pet Clinic System</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-Academic database project focused on managing
-pet clinic operations and records.
-</p>
-
-<p align="center">
-<b>MS Access • Database • System Analysis</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 AI Neurology Imaging System</h3>
-
-<p align="center">
-AI-based medical imaging project exploring
-neurological image analysis.
-</p>
-
-<p align="center">
-<b>AI • U-Net • Vision Transformers</b>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🩹 First Aid Information System</h3>
-
-<p align="center">
-Mobile application concept designed to provide
-accessible first-aid information.
-</p>
-
-<p align="center">
-<b>Flutter • Dart • UI/UX</b>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📱 More Coming Soon...</h3>
-
-<p align="center">
-Currently working on improving my Flutter,
-UI/UX and mobile development skills.
-</p>
-
-<p align="center">
-<b>Flutter • Figma • Dart</b>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ========================= GITHUB STATS =================== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
+<div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=manarmohamed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&icon_color=4F46E5"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=54C5F8&icon_color=54C5F8&text_color=C9D1D9&rank_icon=github"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manarmohamed&layout=compact&hide_border=true&title_color=4F46E5"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=54C5F8&text_color=C9D1D9"
   height="170"
 />
 
-</p>
-
-<br>
-
-<!-- ========================= STREAK ========================= -->
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
+<br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=manarmohamed&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=54C5F8&fire=54C5F8&currStreakLabel=54C5F8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  width="70%"
 />
 
-</p>
+</div>
 
-<br>
+---
 
-<!-- ========================= CONTRIBUTION =================== -->
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION GRAPH                        -->
+<!-- ========================================================= -->
 
-<h2 align="center">🐍 Contribution Activity</h2>
+## 🐍 Contribution Journey
 
-<p align="center">
+<div align="center">
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
 
 <img
-  src="https://raw.githubusercontent.com/manarmohamed/manarmohamed/output/github-contribution-grid-snake.svg"
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
 />
 
-</p>
+</div>
 
-<br>
+---
 
-<!-- ========================= LEARNING ======================= -->
+<!-- ========================================================= -->
+<!--                    CONNECT                                -->
+<!-- ========================================================= -->
 
-<h2 align="center">🌱 Currently Learning</h2>
+## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
-`Flutter` &nbsp; • &nbsp;
-`Dart` &nbsp; • &nbsp;
-`UI/UX Design` &nbsp; • &nbsp;
-`Figma` &nbsp; • &nbsp;
-`Problem Solving`
-
-</p>
-
-<br>
-
-<!-- ========================= CERTIFICATES =================== -->
-
-<h2 align="center">🏆 Training & Activities</h2>
-
-<p align="center">
-
-🎓 Assiut University — Computer & Information<br>
-💻 ICPC Assiut Community<br>
-📱 Flutter Development Training<br>
-🎨 UI/UX Design Training
-
-</p>
-
-<br>
-
-<!-- ========================= CONNECT ======================== -->
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+<a href="https://github.com/YOUR_USERNAME">
+  <img
+    src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
-<a href="https://github.com/manarmohamed">
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
-</p>
+<br><br>
+
+**Let's build something meaningful together. 🚀**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       FOOTER                              -->
+<!-- ========================================================= -->
+
+<div align="center">
 
 <br>
-
-<!-- =========================== FOOTER ======================= -->
-
-<p align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0D47A1,100:0D1117&height=120&section=footer"
   width="100%"
 />
 
-</p>
+### 💙 Built with Flutter mindset & a love for good design.
 
-<p align="center">
-  <b>✨ Thanks for visiting my profile! ✨</b>
-</p>
+<sub>Thanks for visiting my profile!</sub>
+
+</div>
